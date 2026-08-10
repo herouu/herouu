@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @herouu
-- 👀 一个打工人
-- 🌱 正在学习计算机底层知识
-- 💞️ 既然挣得少，那就选择清闲
-- 📫 qq: 2269648132
+<h1 align="center">👋 我是尘客，一个对抗失业的程序员</h1>
 
-<!---
-herouu/herouu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=走走看看，保持对这个世界的好奇&color=F78C6C&center=true" />
+</p>
+
+### 🎲 最近在瞎折腾啥
+- 🐍 完善自己的博客
+
+### 📫 找我玩
+要是你也爱写没用的代码，来唠两句啊！
+- 邮箱：herouucn@foxmail.com
