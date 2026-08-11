@@ -1,4 +1,4 @@
-<h1 align="center">👋 我是尘客，一个对抗失业的程序员</h1>
+<h1 align="center">👋 我是尘客</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=走走看看，保持对这个世界的好奇&color=F78C6C&center=true" />
