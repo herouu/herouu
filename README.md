@@ -8,6 +8,5 @@
 - 🐍 完善自己的博客
 - 学习影刀RPA
 
-### 📫 找我玩
-要是你也爱写没用的代码，来唠两句啊！
-- 邮箱：herouucn@foxmail.com
+### blog
+- https://herouu.dpdns.org
