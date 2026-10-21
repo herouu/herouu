@@ -1,4 +1,4 @@
-<h1 align="center">尘客 · herouu</h1>
+<h1 align="center">尘客</h1>
 
 <p align="center">写后端和 AI agent 工具链，顺手把 RPA 与 EDA 接到命令行上。</p>
 
@@ -8,7 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=1200&color=F78C6C&center=true&vCenter=true&width=520&lines=%E4%B8%8D%E6%80%A5%EF%BC%8C%E4%BD%86%E4%B8%8D%E5%81%9C" alt="不急，但不停" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=1200&color=CBD5E0&center=true&vCenter=true&width=520&lines=%E4%B8%8D%E6%80%A5%EF%BC%8C%E4%BD%86%E4%B8%8D%E5%81%9C" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=1200&color=2D3748&center=true&vCenter=true&width=520&lines=%E4%B8%8D%E6%80%A5%EF%BC%8C%E4%BD%86%E4%B8%8D%E5%81%9C" alt="不急，但不停" />
+  </picture>
 </p>
 
 ## 在做什么
@@ -19,12 +22,10 @@
 
 ## 精选项目
 
-| 项目 | 解决什么问题 | 技术 |
-| --- | --- | --- |
-| [opencode-commandcode](https://github.com/herouu/opencode-commandcode) | 一个 API key 就能让 opencode 用上 Command Code 的 70+ 模型（Claude / GPT / Gemini / DeepSeek / Qwen / Kimi / GLM），不必逐家配 key | TypeScript |
-| [opencode-local-memory](https://github.com/herouu/opencode-local-memory) | 给 opencode v2 补上跨会话记忆：零依赖落盘，按关键词检索后注入上下文 | TypeScript |
-| [chenke-nl2jlceda](https://github.com/herouu/chenke-nl2jlceda) | 一句话描述需求 → tscircuit 电路 → 嘉立创EDA专业版 .epro，链路里带 DFM/DRC 校验 | JavaScript |
-| [shadowbot-visual-flow](https://github.com/herouu/shadowbot-visual-flow) | 影刀 VisualFlow 用 MCP 编程建流的字段笔记：作用域、隐式输出、踩坑速查 | MCP · 影刀 |
+- **[opencode-commandcode](https://github.com/herouu/opencode-commandcode)** — 一个 API key 就跑通 Command Code 的 70+ 模型（Claude / GPT / Gemini / DeepSeek / Qwen / Kimi / GLM），不必逐家配 key。<br><sub>TypeScript</sub>
+- **[opencode-local-memory](https://github.com/herouu/opencode-local-memory)** — 给 opencode v2 补上跨会话记忆：零依赖落盘，按关键词检索后注入上下文。<br><sub>TypeScript</sub>
+- **[chenke-nl2jlceda](https://github.com/herouu/chenke-nl2jlceda)** — 一句话描述需求 → tscircuit 电路 → 嘉立创EDA专业版 .epro，链路里带 DFM/DRC 校验。<br><sub>JavaScript</sub>
+- **[shadowbot-visual-flow](https://github.com/herouu/shadowbot-visual-flow)** — 影刀 VisualFlow 用 MCP 编程建流的字段笔记：作用域、隐式输出、踩坑速查。<br><sub>MCP · 影刀</sub>
 
 ## 技术栈
 
@@ -44,10 +45,6 @@
 
 <img src="https://img.shields.io/badge/opencode-4a5568?style=flat-square&labelColor=2d3748" alt="opencode" /> <img src="https://img.shields.io/badge/ShadowBot%20RPA-4a5568?style=flat-square&labelColor=2d3748" alt="ShadowBot RPA" /> <img src="https://img.shields.io/badge/EasyEDA-4a5568?style=flat-square&labelColor=2d3748" alt="EasyEDA" /> <img src="https://img.shields.io/badge/Git-4a5568?style=flat-square&labelColor=2d3748&logo=git&logoColor=white" alt="Git" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herouu&layout=compact&theme=vue-dark&hide_title=true&langs_count=8" alt="语言分布" />
-</p>
-
 ## 更多项目
 
 <details>
@@ -64,6 +61,6 @@
 
 ## 博客
 
-博客在 <https://herouu.dpdns.org>，主要写前端、后端、人工智能（RAG 评估、多模态、知识图谱）、数据库、网络、物联网、运维开发这几类内容，踩过的坑基本都落在那里。
+博客在 <https://herouu.dpdns.org>，写前端、后端、人工智能（RAG 评估、多模态、知识图谱）、数据库、网络、物联网、运维开发这些题材。
 
-上面这些仓库的问题，直接开 issue 就行。
+踩过的坑基本都落在那里；上面这些仓库的问题，直接开 issue 就行。
