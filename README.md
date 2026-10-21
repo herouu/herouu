@@ -1,18 +1,13 @@
 <h1 align="center">尘客</h1>
 
-<p align="center">写后端和 AI agent 工具链，顺手把 RPA 与 EDA 接到命令行上。</p>
+<p align="center">把 AI agent、RPA、EDA 串成流水线，做出来的东西写到博客里。</p>
 
 <p align="center">
   <a href="https://herouu.dpdns.org">博客</a> ·
   <a href="https://github.com/herouu?tab=repositories">全部仓库</a>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=1200&color=CBD5E0&center=true&vCenter=true&width=520&lines=%E4%B8%8D%E6%80%A5%EF%BC%8C%E4%BD%86%E4%B8%8D%E5%81%9C" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=1200&color=2D3748&center=true&vCenter=true&width=520&lines=%E4%B8%8D%E6%80%A5%EF%BC%8C%E4%BD%86%E4%B8%8D%E5%81%9C" alt="不急，但不停" />
-  </picture>
-</p>
+<p align="center"><sub>不急，但不停。</sub></p>
 
 ## 在做什么
 
